@@ -1,6 +1,6 @@
 # Harmoe图片下载器
 
-这是一个用于从harmoe FC网站（https://harmoe-fc.jp）下载图片的Python脚本。
+这是一个用于从harmoe FC网站（https://harmoe-fc.jp） 下载图片的Python脚本。
 
 ## 功能描述
 
